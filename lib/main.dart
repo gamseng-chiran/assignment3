@@ -3,7 +3,6 @@ import 'package:assignment3/photoDetailScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'model.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 
 void main() {
   runApp(const MyApp());
